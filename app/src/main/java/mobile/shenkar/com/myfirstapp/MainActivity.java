@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Toast.makeText(this,"Hallo",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Hy",Toast.LENGTH_LONG).show();
     }
 
     @Override
